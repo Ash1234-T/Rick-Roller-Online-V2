@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: 'Verdana', sans-serif;
+}
+</style>
+</head>
+<body>
+<title>Video</title>
+<iframe width="1400" height="780" src="https://ia803405.us.archive.org/25/items/rick-astley-never-gonna-give-you-up-hd-4-k-60-fps/Rick%20Astley%20Never%20Gonna%20Give%20You%20Up%20HD%204K%2060%20FPS.mp4?autoplay=1" frameborder="4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>
+  body {
+    background-image: url("Background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
+<h1>You just got Rick Rolled!!!</h1>
+<img src="You just got Rick Rolled1.png">
+<input type="button" value="Go back!" onclick="history.back()">
+<button onclick="window.location.href='https://raw.githubusercontent.com/Ash1234-T/Rick-Roller-Online-V2/main/You%20just%20got%20Rick%20Rolled.png';">View and Download the picture!</button>
+<button onclick="window.location.href='https://raw.githubusercontent.com/Ash1234-T/Rick-Roller-Online-V2/main/Rick%20Roll%20Lyrics';">Get The lyrics of Rick Roll!</button>
+
+
+</body>
+</html>
